@@ -1,6 +1,5 @@
 import Vue from 'vue';
 import VueMaterial from './../../../../node_modules/vue-material'
-import './../../../../node_modules/vue-material/dist/vue-material.css'
 import VueResource from 'vue-resource';
 import {VTooltip} from 'v-tooltip'
 import openChat from '@/components/OpenChat/OpenChat.vue'

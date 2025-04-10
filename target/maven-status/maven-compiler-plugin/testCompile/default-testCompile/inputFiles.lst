@@ -1,0 +1,15 @@
+/home/john/Geocitizen/src/test/java/com/softserveinc/geocitizen/repository/MapMarkersRepositoryTest.java
+/home/john/Geocitizen/src/test/java/com/softserveinc/geocitizen/repository/ImagesRepositoryTest.java
+/home/john/Geocitizen/src/test/java/com/softserveinc/geocitizen/repository/MessageRepositoryTest.java
+/home/john/Geocitizen/src/test/java/com/softserveinc/geocitizen/repository/NotificationRepositoryTest.java
+/home/john/Geocitizen/src/test/java/com/softserveinc/geocitizen/service/UserServiceTest.java
+/home/john/Geocitizen/src/test/java/com/softserveinc/geocitizen/service/MapMarkerServiceTest.java
+/home/john/Geocitizen/src/test/java/com/softserveinc/geocitizen/service/NotificationServiceTest.java
+/home/john/Geocitizen/src/test/java/com/softserveinc/geocitizen/controller/AuthRestControllerTest.java
+/home/john/Geocitizen/src/test/java/com/softserveinc/geocitizen/controller/UsersRestControllerTest.java
+/home/john/Geocitizen/src/test/java/com/softserveinc/geocitizen/controller/MapRestControllerTest.java
+/home/john/Geocitizen/src/test/java/com/softserveinc/geocitizen/repository/ConnectionRepositoryTest.java
+/home/john/Geocitizen/src/test/java/com/softserveinc/geocitizen/repository/IssueRepositoryTest.java
+/home/john/Geocitizen/src/test/java/com/softserveinc/geocitizen/repository/UsersRepositoryTest.java
+/home/john/Geocitizen/src/test/java/com/softserveinc/geocitizen/repository/RecoveryTokenRepositoryTest.java
+/home/john/Geocitizen/src/test/java/com/softserveinc/geocitizen/service/MessageServiceTest.java

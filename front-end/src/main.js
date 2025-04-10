@@ -7,8 +7,6 @@ import VueMaterial from 'vue-material'
 import Vuelidate from 'vuelidate'
 import 'bootstrap-social/bootstrap-social.css'
 import 'bootstrap-social/assets/css/font-awesome.css'
-import 'vue-material/dist/vue-material.min.css'
-import 'vue-material/dist/theme/black-green-light.css'
 import App from './App'
 import SignInSocial from '@/components/form/SignInSocial/SignInSocial'
 import SignInForm from '@/components/form/SignInForm/SignInForm'
@@ -23,7 +21,7 @@ import Header from '@/components/header/Header'
 import router from './router'
 import i18n from './i18n'
 
-export const backEndUrl = 'http://localhost:8080/citizen/'
+export const backEndUrl = 'http://192.168.1.9:8080/citizen/'
 
 Vue.use(VueResource)
 Vue.use(VueCookie)
